@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vehecon Mobile</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logo">Logo</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="signin">Sign in</string>
+    <string name="password">Password</string>
+    <string name="user_name">User name</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="select_a_car">Select a car:</string>
+    <string name="driving_style">Driving style</string>
+    <string name="setting">Setting</string>
+    <string-array name="driving_styles">
+		<item>Normal</item>
+		<item>Economic</item>
+		<item>Aggressive</item>
+	</string-array>
+	<string-array name="setting_values">
+		<item>Urban</item>
+		<item>Extra-urban</item>
+		<item>Mixed</item>
+	</string-array>
+	<string name="payload">Payload (in kg)</string>
+	<string name="text_kilometers">Kilometers...</string>
+	<string name="or_money">...or money</string>
+	<string name="calculate">Calculate</string>
+	<string name="action_sign_out">Sign out</string>
+
+</resources>

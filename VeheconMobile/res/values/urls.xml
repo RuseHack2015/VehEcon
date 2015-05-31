@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="login" type="urls">https://example.com/index.php/api/login/index/</item>
+    <item name="getinfo" type="urls">https://example.com/index.php/api/login/getinfo/</item>
+</resources>
